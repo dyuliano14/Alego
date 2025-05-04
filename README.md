@@ -55,9 +55,15 @@ Atribuições em relação às proposições: distribuir processos, receber ou r
 Atribuições em relação às Comissões: nomear membros, declarar perda de lugar, convocar reuniões.    
 Outras atribuições: justificar ausências de Deputados, dar posse, assinar correspondências oficiais, zelar pelo decoro, promulgar leis (em casos específicos).
 ~~~
-<details>
+
+</details>
 
 ### 1771
+
+<details>
+ 
+<summary>Clique para expandir</summary>
+
 
 ## Atendimento ao público
 ## Comunicaçao Social
@@ -69,6 +75,8 @@ Outras atribuições: justificar ausências de Deputados, dar posse, assinar cor
 ## Segurança Pública
 ## Trabalho em equipe
 # Plano de Estudo do Regimento Interno da ALEGO
+
+</details>
 
 ## 1. Divisão do Regimento Interno em Partes para Estudo
 
