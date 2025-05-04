@@ -1,2 +1,13 @@
 # Alego
-Repositório de controle de estudos para o concurso da ALEGO.
+
+Matérias cobradas no concurso Alego.
+
+## Atendimento ao público
+## Comunicaçao Social
+## Direito Administativo
+## Direito Constitucional
+## História de Goias
+## Informatica
+## Português 
+## Segurança Pública
+## Trabalho em equipe
