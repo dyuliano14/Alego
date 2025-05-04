@@ -6,6 +6,11 @@ Matérias cobradas no concurso Alego.
 ### 1007
 ### 1073
 ### 1218
+
+<details>
+
+<summary>Clique para expandir</summary>
+
 # ALEGO até a página 10 do PDF, onde termina a parte do Presidente da Casa:
 
 # **Título I - Das Disposições Preliminares**
@@ -50,7 +55,10 @@ Atribuições em relação às proposições: distribuir processos, receber ou r
 Atribuições em relação às Comissões: nomear membros, declarar perda de lugar, convocar reuniões.    
 Outras atribuições: justificar ausências de Deputados, dar posse, assinar correspondências oficiais, zelar pelo decoro, promulgar leis (em casos específicos).
 ~~~
+<details>
+
 ### 1771
+
 ## Atendimento ao público
 ## Comunicaçao Social
 ## Direito Administativo
