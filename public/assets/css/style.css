@@ -1,0 +1,127 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #004080;
+  color: white;
+  padding: 1em;
+  text-align: center;
+}
+
+
+nav ul li {
+  margin: 0 1em;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: #004080;
+  font-weight: bold;
+}
+
+main {
+  padding: 2em;
+}
+
+.login-container {
+  max-width: 300px;
+  margin: 5em auto;
+  padding: 2em;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.login-container h2 {
+  text-align: center;
+}
+
+.login-container input {
+  width: 100%;
+  padding: 0.5em;
+  margin: 0.5em 0;
+}
+
+.login-container button {
+  width: 100%;
+  padding: 0.5em;
+  background-color: #004080;
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
+
+.error {
+  color: red;
+  text-align: center;
+}
+
+.box-container {
+  max-width: 300px;
+  margin: 5em auto;
+  padding: 2em;
+  border: 1px solid #0c0c0c;
+  border-radius: 5px;
+}
+
+.box-container {
+  text-align: center;
+}
+
+.box-container {
+  width: 100%;
+  padding: 0.5em;
+  background-color: #004080;
+  color: white;
+  border: none;
+  border-radius: 5px;
+
+}
+
+#info.box-container {
+  max-width: 300px;
+  margin: 5em auto;
+  padding: 2em;
+  border: 1px solid #0c0c0c;
+  border-radius: 5px;
+}
+
+#info.box-container {
+
+ text-align: center;
+}
+
+#info.box-container {
+  width: 100%;
+  padding: 0.5em;
+  background-color: #004080;
+  color: white;
+  border: none;
+  border-radius: 5px;
+
+}
+
+#form-check.box-container {
+  max-width: 300px;
+  margin: 5em auto;
+  padding: 2em;
+  border: 1px solid #0c0c0c;
+  border-radius: 5px;
+}
+
+#form-check.box-container {
+
+ text-align: center;
+}
+
+#form.check.box-container {
+  width: 100%;
+  padding: 0.5em;
+  background-color: #004080;
+  color: white;
+  border: none;
+  border-radius: 5px;
+
+}

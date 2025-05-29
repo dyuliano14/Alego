@@ -1,0 +1,24 @@
+[
+  {
+    "id": "regimento-interno",
+    "nome": "Regimento Interno",
+    "conteudo": {
+      "aulas": ["Aula 1", "Aula 2"],
+      "planejamento": "Planejamento detalhado",
+      "flashcards": ["Flashcard 1", "Flashcard 2"],
+      "resumos": "Resumo do conteúdo",
+      "apresentacao": "Apresentação em PDF"
+    }
+  },
+  {
+    "id": "disciplina-1",
+    "nome": "Disciplina 1",
+    "conteudo": {
+      "aulas": ["Aula 1", "Aula 2"],
+      "planejamento": "Planejamento da disciplina",
+      "flashcards": ["Flashcard A", "Flashcard B"],
+      "resumos": "Resumo da disciplina",
+      "apresentacao": "Apresentação da disciplina"
+    }
+  }
+]
