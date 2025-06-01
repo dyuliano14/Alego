@@ -18,7 +18,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
       if (users[username] && users[username] === password) {
         sessionStorage.setItem('loggedIn', 'true');
-        window.location.href = 'public/assets/disciplinas/index.html';  // Redireciona para a home
+        window.location.href = 'disciplinas/index.html';
       } else {
         errorMessage.textContent = 'Usuário ou senha incorretos.';
       }
@@ -26,7 +26,7 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 
   // 🔒 Bloqueia acesso direto se não estiver logado
-  const protectedPages = ['index.html', 'disciplinas.html', 'regimento-interno.html'];
+  const protectedPages = ['index.html', 'disciplinas.html', 'regimento_interno.html'];
   const currentPage = window.location.pathname.split('/').pop();
 
   if (protectedPages.includes(currentPage) && sessionStorage.getItem('loggedIn') !== 'true') {
